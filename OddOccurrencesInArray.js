@@ -1,4 +1,5 @@
 /* 
+  Odd Occurrences In Array challenge
   Based on Codility this solution gives a fair to good time complexity (O(N) or O(N*log(N)))
 */
 function solution(A) {
